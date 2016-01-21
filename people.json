@@ -96,6 +96,12 @@
     "tz": "America/Lima"
   },
   {
+    "name": "Rezart Bajraktari",
+    "avatar": "https://avatars.slack-edge.com/2016-01-11/18233961255_c5e85c00a89970120a7a_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Ricardo Diaz",
     "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
     "city": "Lima",
