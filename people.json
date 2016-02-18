@@ -72,6 +72,12 @@
     "tz": "America/New_York"
   },
   {
+    "name": "Jeff Shiau",
+    "avatar": "https://avatars.slack-edge.com/2016-02-16/21648960711_2736cb35e27e07a1918c_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Joe Rodriguez",
     "avatar": "https://avatars.slack-edge.com/2015-08-25/9676390195_b21713654bebdc06ee18_192.jpg",
     "city": "New York",
@@ -82,6 +88,12 @@
     "avatar": "https://avatars.slack-edge.com/2015-01-26/3519853809_89da603550c77823345f_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Karen Da Cruz",
+    "avatar": "https://avatars.slack-edge.com/2016-02-02/20122708375_399707136dcd79bc1a2d_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
   },
   {
     "name": "Mike Potter",
