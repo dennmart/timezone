@@ -18,6 +18,12 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "César Carruitero",
+    "avatar": "",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
     "name": "Dante Millones",
     "avatar": "https://avatars.slack-edge.com/2015-10-21/12964202179_45885d9cb31557c11855_192.jpg",
     "city": "Lima",
@@ -37,13 +43,19 @@
   },
   {
     "name": "Felix Montes Perez",
-    "avatar": "",
+    "avatar": "https://avatars.slack-edge.com/2016-02-05/20485974246_1d68231bad621b4ed27f_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
   },
   {
     "name": "Gianfranco Montoya Suárez",
     "avatar": "https://avatars.slack-edge.com/2015-11-05/13961417364_fb6e993c29670ef1777f_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
+    "name": "Guisella Acuña",
+    "avatar": "https://avatars.slack-edge.com/2016-03-07/24955417424_823385d89ff00039cc91_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
   },
@@ -55,7 +67,7 @@
   },
   {
     "name": "Jake Przespo",
-    "avatar": "https://avatars.slack-edge.com/2015-07-07/7321865044_fa27c48c620b8d0dea00_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2016-03-07/25017972374_ef56f2d7f2d71dfb78e4_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
   },
