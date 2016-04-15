@@ -55,7 +55,7 @@
   },
   {
     "name": "Guisella Acuña",
-    "avatar": "https://avatars.slack-edge.com/2016-03-07/24955417424_823385d89ff00039cc91_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2016-03-23/28833218946_c38b85499af3c0e9d767_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
   },
@@ -102,10 +102,22 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "Julio García",
+    "avatar": "",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
     "name": "Karen Da Cruz",
     "avatar": "https://avatars.slack-edge.com/2016-02-02/20122708375_399707136dcd79bc1a2d_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
+  },
+  {
+    "name": "Michael Polansky",
+    "avatar": "",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Mike Potter",
