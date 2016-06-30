@@ -1,5 +1,17 @@
 [
   {
+    "name": "Allison Frias",
+    "avatar": "",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
+    "name": "Becky Bochatey",
+    "avatar": "https://avatars.slack-edge.com/2016-06-13/50582781810_7cf3b5fad69697251e93_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Ben Lim",
     "avatar": "https://avatars.slack-edge.com/2015-07-06/7291239795_d95f1d08758af78685ce_192.jpg",
     "city": "New York",
@@ -18,13 +30,19 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "Cristian Peñarrieta",
+    "avatar": "https://avatars.slack-edge.com/2016-05-09/41292840371_7131f9cbdd578c5fc642_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
     "name": "César Carruitero",
     "avatar": "",
     "city": "Lima",
     "tz": "America/Lima"
   },
   {
-    "name": "Dante Millones",
+    "name": "Dante Cavero",
     "avatar": "https://avatars.slack-edge.com/2015-10-21/12964202179_45885d9cb31557c11855_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
@@ -38,6 +56,18 @@
   {
     "name": "Eder Rengifo",
     "avatar": "https://avatars.slack-edge.com/2015-08-03/8579026422_21f5761c19f46cb86137_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
+    "name": "Elizabeth Manrique",
+    "avatar": "https://avatars.slack-edge.com/2016-05-09/41345892416_4d6ea85ed4476b3f7611_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
+  },
+  {
+    "name": "Elvis Carrasco",
+    "avatar": "https://avatars.slack-edge.com/2016-06-01/47457536997_84890322a8a7d087acf1_192.jpg",
     "city": "Lima",
     "tz": "America/Lima"
   },
@@ -90,6 +120,12 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "Jennifer Park",
+    "avatar": "",
+    "city": "New York",
+    "tz": "America/New_York"
+  },
+  {
     "name": "Joe Rodriguez",
     "avatar": "https://avatars.slack-edge.com/2015-08-25/9676390195_b21713654bebdc06ee18_192.jpg",
     "city": "New York",
@@ -114,10 +150,10 @@
     "tz": "America/Lima"
   },
   {
-    "name": "Michael Polansky",
-    "avatar": "",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "name": "Marivel Quiroz",
+    "avatar": "https://avatars.slack-edge.com/2016-06-02/47798097158_7efa32694c4cdc8e0d36_192.jpg",
+    "city": "Lima",
+    "tz": "America/Lima"
   },
   {
     "name": "Mike Potter",
@@ -133,7 +169,7 @@
   },
   {
     "name": "Rezart Bajraktari",
-    "avatar": "https://avatars.slack-edge.com/2016-01-11/18233961255_c5e85c00a89970120a7a_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2016-06-22/53477995632_859b1225a36bf1afcf19_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -157,7 +193,7 @@
   },
   {
     "name": "Taylor McLemore",
-    "avatar": "https://avatars.slack-edge.com/2015-07-02/7170765024_8a8e857d2e207f56a7d0_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
     "city": "Denver",
     "tz": "America/Denver"
   }
