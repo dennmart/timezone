@@ -12,6 +12,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Arturo Puente",
+    "avatar": "https://secure.gravatar.com/avatar/29e84b08232c9cd693b1e387a3b3e346.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0023-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Becky Bochatey",
     "avatar": "https://avatars.slack-edge.com/2016-06-13/50582781810_7cf3b5fad69697251e93_192.jpg",
     "city": "New York",
@@ -37,7 +43,7 @@
   },
   {
     "name": "Drew Lyon",
-    "avatar": "https://secure.gravatar.com/avatar/de58f62083aae8b3c10b53a5fd49263e.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/de58f62083aae8b3c10b53a5fd49263e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
@@ -85,7 +91,7 @@
   },
   {
     "name": "Guillermo Iguaran",
-    "avatar": "https://secure.gravatar.com/avatar/4743aa7cfd83f0cd79013bb17f1497cd.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0020-192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-06-05/193862952407_617b07c6636a9519560c_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -151,7 +157,7 @@
   },
   {
     "name": "Josh Holley",
-    "avatar": "https://secure.gravatar.com/avatar/1f4c25982991f123892063dd59f5a57f.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/1f4c25982991f123892063dd59f5a57f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "New York",
     "tz": "America/Indiana/Indianapolis"
   },
@@ -193,13 +199,13 @@
   },
   {
     "name": "Kerrie Gill",
-    "avatar": "https://secure.gravatar.com/avatar/2f5407daf9226f7da848cc06308c373a.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0022-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/2f5407daf9226f7da848cc06308c373a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0022-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
   {
     "name": "Lizbeth Noriega",
-    "avatar": "https://secure.gravatar.com/avatar/9e42e2a574efbe9d9fb89228ad00f8d7.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0021-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/9e42e2a574efbe9d9fb89228ad00f8d7.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0021-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -253,7 +259,7 @@
   },
   {
     "name": "Ricardo Díaz",
-    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Ffst.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
