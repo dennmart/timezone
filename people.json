@@ -30,6 +30,12 @@
     "tz": "America/Indiana/Indianapolis"
   },
   {
+    "name": "Danny Conway",
+    "avatar": "https://secure.gravatar.com/avatar/e188b7a5283451da30ec82d780f82a97.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0026-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Dante Cavero",
     "avatar": "https://avatars.slack-edge.com/2015-10-21/12964202179_45885d9cb31557c11855_192.jpg",
     "city": "Lima",
@@ -154,12 +160,6 @@
     "avatar": "https://avatars.slack-edge.com/2016-10-10/89631567909_2620bf8cbf7f3e222c63_192.png",
     "city": "New York",
     "tz": "America/New_York"
-  },
-  {
-    "name": "Josh Holley",
-    "avatar": "https://secure.gravatar.com/avatar/1f4c25982991f123892063dd59f5a57f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
-    "city": "New York",
-    "tz": "America/Indiana/Indianapolis"
   },
   {
     "name": "Juan LaJara",
