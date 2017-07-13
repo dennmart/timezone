@@ -90,6 +90,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Griffin Dunaif",
+    "avatar": "https://secure.gravatar.com/avatar/134046eb33a65e661471baa6df27f423.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
+    "city": "New York",
+    "tz": "America/New_York"
+  },
+  {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
     "city": "Lima",
@@ -205,7 +211,7 @@
   },
   {
     "name": "Lizbeth Noriega",
-    "avatar": "https://secure.gravatar.com/avatar/9e42e2a574efbe9d9fb89228ad00f8d7.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0021-192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-07-06/208752654082_3420eb87ea1e1ebb1f8c_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -286,5 +292,11 @@
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
     "city": "Uruguay",
     "tz": "America/Montevideo"
+  },
+  {
+    "name": "pame",
+    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
   }
 ]
