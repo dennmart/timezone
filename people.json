@@ -6,6 +6,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Alessandra Pereyra",
+    "avatar": "https://avatars.slack-edge.com/2017-07-19/214967227076_c300189360c54ef53fdb_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Angela Cordova",
     "avatar": "https://avatars.slack-edge.com/2016-08-25/73127882049_aaaa3e2c1ad56aa38c8a_192.jpg",
     "city": "Lima",
@@ -121,7 +127,7 @@
   },
   {
     "name": "Gustavo Delgado",
-    "avatar": "https://avatars.slack-edge.com/2016-07-11/58709133238_94664a61928830d5c306_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2017-07-18/213860233472_d9c8f3d32f9ddea78c3e_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -252,6 +258,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Pamela Linera",
+    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Rafael Meza",
     "avatar": "https://avatars.slack-edge.com/2016-12-07/113981323122_f2047dfdfbbd45c64919_192.jpg",
     "city": "Lima",
@@ -276,12 +288,6 @@
     "tz": "America/New_York"
   },
   {
-    "name": "Shyama Golden",
-    "avatar": "https://avatars.slack-edge.com/2015-03-05/3939839566_7010e416df739d5e6ec2_192.jpg",
-    "city": "New York",
-    "tz": "America/Indiana/Indianapolis"
-  },
-  {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
     "city": "New York",
@@ -292,11 +298,5 @@
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
     "city": "Uruguay",
     "tz": "America/Montevideo"
-  },
-  {
-    "name": "pame",
-    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
   }
 ]
