@@ -2,3 +2,6 @@ node_modules
 
 *.log
 public/stylesheets/*.css
+
+# Script to update people.json - no need to merge this in.
+update_people.rb
