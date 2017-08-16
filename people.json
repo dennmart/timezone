@@ -13,7 +13,13 @@
   },
   {
     "name": "Alfonso Mello",
-    "avatar": "https://avatars.slack-edge.com/2017-08-08/223809115459_54ccfa19eab66459a0cf_192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-08-15/227000182949_6a9b9518629bd4835b28_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Alfredo Sumaran",
+    "avatar": "https://avatars.slack-edge.com/2017-08-15/226795566995_3c6306a636f9eef6e7c6_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -284,6 +290,12 @@
   {
     "name": "Rafael Meza",
     "avatar": "https://avatars.slack-edge.com/2016-12-07/113981323122_f2047dfdfbbd45c64919_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Raymi Saldomando",
+    "avatar": "https://avatars.slack-edge.com/2017-08-15/226368935201_3771db2680899569817f_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
