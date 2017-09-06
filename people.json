@@ -31,7 +31,7 @@
   },
   {
     "name": "Arturo Puente",
-    "avatar": "https://avatars.slack-edge.com/2017-06-07/194244303634_a65e3705d27d1211c855_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2017-08-27/232346102274_1c6cc7491c415809d2ac_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -48,8 +48,8 @@
     "tz": "America/Indiana/Indianapolis"
   },
   {
-    "name": "Danny Conway",
-    "avatar": "https://secure.gravatar.com/avatar/e188b7a5283451da30ec82d780f82a97.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0026-192.png",
+    "name": "Daniel Conway",
+    "avatar": "https://secure.gravatar.com/avatar/8b8a2e3d0d35d98dcdaadc7764a4045f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0020-192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -220,12 +220,6 @@
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
-  },
-  {
-    "name": "Kerrie Gill",
-    "avatar": "https://secure.gravatar.com/avatar/2f5407daf9226f7da848cc06308c373a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0022-192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
   },
   {
     "name": "Lizbeth Noriega",
