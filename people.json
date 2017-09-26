@@ -18,6 +18,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "alfredo",
+    "avatar": "https://avatars.slack-edge.com/2017-09-21/244887843556_34f1704ef42b7cfe96fa_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Alfredo Sumaran",
     "avatar": "https://avatars.slack-edge.com/2017-08-15/226795566995_3c6306a636f9eef6e7c6_192.jpg",
     "city": "Lima",
@@ -49,13 +55,19 @@
   },
   {
     "name": "Daniel Conway",
-    "avatar": "https://secure.gravatar.com/avatar/8b8a2e3d0d35d98dcdaadc7764a4045f.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0020-192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
   {
     "name": "Dante Cavero",
     "avatar": "https://avatars.slack-edge.com/2015-10-21/12964202179_45885d9cb31557c11855_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Dennis Huillca",
+    "avatar": "https://avatars.slack-edge.com/2017-09-21/244160451840_3b9ec967cc23f6c7dd68_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -67,7 +79,7 @@
   },
   {
     "name": "Drew Lyon",
-    "avatar": "https://secure.gravatar.com/avatar/de58f62083aae8b3c10b53a5fd49263e.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/de58f62083aae8b3c10b53a5fd49263e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
@@ -80,6 +92,12 @@
   {
     "name": "Elizabeth Manrique",
     "avatar": "https://avatars.slack-edge.com/2017-09-08/239673278887_4f62b6d9c8104191b72c_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Elizabeth Portilla",
+    "avatar": "https://secure.gravatar.com/avatar/d0ed623e689f2703af4da8caa1edd583.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0004-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -109,7 +127,7 @@
   },
   {
     "name": "Griffin Dunaif",
-    "avatar": "https://secure.gravatar.com/avatar/134046eb33a65e661471baa6df27f423.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/134046eb33a65e661471baa6df27f423.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
     "city": "New York",
     "tz": "America/New_York"
   },
@@ -184,6 +202,12 @@
     "avatar": "https://avatars.slack-edge.com/2016-10-10/89631567909_2620bf8cbf7f3e222c63_192.png",
     "city": "New York",
     "tz": "America/New_York"
+  },
+  {
+    "name": "jose olortegui",
+    "avatar": "https://avatars.slack-edge.com/2017-09-19/244723814311_20272235759b41fc52ec_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Juan LaJara",
@@ -276,8 +300,14 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "nelson",
+    "avatar": "https://avatars.slack-edge.com/2017-09-19/244806439495_1e3898400b132740f034_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Pamela Linera",
-    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -301,7 +331,7 @@
   },
   {
     "name": "Ricardo Díaz",
-    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
