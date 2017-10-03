@@ -20,8 +20,8 @@
   {
     "name": "alfredo",
     "avatar": "https://avatars.slack-edge.com/2017-09-21/244887843556_34f1704ef42b7cfe96fa_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Alfredo Sumaran",
@@ -310,6 +310,12 @@
     "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "paul",
+    "avatar": "https://secure.gravatar.com/avatar/7453f56028c92fd9630d8143dbd070d1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Rafael Meza",
