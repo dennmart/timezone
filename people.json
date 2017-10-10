@@ -126,6 +126,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "gladys",
+    "avatar": "https://avatars.slack-edge.com/2017-10-04/250799829793_73e107c035435a4b4716_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Griffin Dunaif",
     "avatar": "https://secure.gravatar.com/avatar/134046eb33a65e661471baa6df27f423.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
     "city": "New York",
@@ -254,6 +260,12 @@
   {
     "name": "Lourdes Cordova",
     "avatar": "https://avatars.slack-edge.com/2017-01-04/123968419350_5355e6460e66e037fb88_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Maria Andrea",
+    "avatar": "https://secure.gravatar.com/avatar/0004782df4d0034437a9b4e8067c9113.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0000-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
