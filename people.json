@@ -78,6 +78,12 @@
     "tz": "Asia/Tokyo"
   },
   {
+    "name": "Derek Weingart",
+    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "city": "Denver",
+    "tz": "America/Denver"
+  },
+  {
     "name": "Drew Lyon",
     "avatar": "https://secure.gravatar.com/avatar/de58f62083aae8b3c10b53a5fd49263e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
     "city": "Denver",
@@ -210,7 +216,7 @@
     "tz": "America/New_York"
   },
   {
-    "name": "jose olortegui",
+    "name": "jose",
     "avatar": "https://avatars.slack-edge.com/2017-09-19/244723814311_20272235759b41fc52ec_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
@@ -324,8 +330,8 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "paul",
-    "avatar": "https://secure.gravatar.com/avatar/7453f56028c92fd9630d8143dbd070d1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "name": "Paul Antaki",
+    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -340,12 +346,6 @@
     "avatar": "https://avatars.slack-edge.com/2017-08-15/226368935201_3771db2680899569817f_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
-  },
-  {
-    "name": "Rez Bajraktari",
-    "avatar": "https://avatars.slack-edge.com/2016-06-22/53477995632_859b1225a36bf1afcf19_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
   },
   {
     "name": "Ricardo Díaz",
