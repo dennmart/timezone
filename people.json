@@ -7,7 +7,7 @@
   },
   {
     "name": "Alessandra Pereyra",
-    "avatar": "https://avatars.slack-edge.com/2017-07-19/214967227076_c300189360c54ef53fdb_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2017-11-13/272522086807_6f2fece3b2d970385949_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -18,7 +18,7 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "alfredo",
+    "name": "alfredo miranda",
     "avatar": "https://avatars.slack-edge.com/2017-09-21/244887843556_34f1704ef42b7cfe96fa_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
@@ -103,7 +103,7 @@
   },
   {
     "name": "Elizabeth Portilla",
-    "avatar": "https://secure.gravatar.com/avatar/d0ed623e689f2703af4da8caa1edd583.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0004-192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-11-07/269451540183_0529732598841c4e18b2_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -228,6 +228,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Juan-Pablo Scaletti",
+    "avatar": "https://avatars.slack-edge.com/2017-11-07/268429774979_7ba666bb90ca61b8d942_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Julio García",
     "avatar": "https://avatars.slack-edge.com/2017-09-14/242596096151_0c39a4585723ffc7bf2a_192.png",
     "city": "Lima",
@@ -288,6 +294,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "mario",
+    "avatar": "https://secure.gravatar.com/avatar/585ea4646f8f6087e267e86cda155461.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0016-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Marivel Quiroz",
     "avatar": "https://avatars.slack-edge.com/2016-06-02/47798097158_7efa32694c4cdc8e0d36_192.jpg",
     "city": "Lima",
@@ -320,6 +332,12 @@
   {
     "name": "nelson",
     "avatar": "https://avatars.slack-edge.com/2017-10-12/255503642741_1f0229e46c6cfae8bd07_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "ninisha",
+    "avatar": "https://avatars.slack-edge.com/2017-11-09/269904907765_53448ad9627fb37b896e_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
