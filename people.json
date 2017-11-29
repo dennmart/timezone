@@ -276,6 +276,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "marco",
+    "avatar": "https://secure.gravatar.com/avatar/16e937c4a5542693cbd1ebc8fd4f7247.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Maria Andrea",
     "avatar": "https://avatars.slack-edge.com/2017-10-10/254277004629_605c9da22cfe1c86b840_192.png",
     "city": "Lima",
@@ -295,7 +301,7 @@
   },
   {
     "name": "mario",
-    "avatar": "https://secure.gravatar.com/avatar/585ea4646f8f6087e267e86cda155461.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0016-192.png",
+    "avatar": "https://avatars.slack-edge.com/2017-11-21/275032290800_e3355916eae1104a3123_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
