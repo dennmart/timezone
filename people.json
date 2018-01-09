@@ -1,7 +1,7 @@
 [
   {
     "name": "Alessandra Pereyra",
-    "avatar": "https://avatars.slack-edge.com/2017-11-13/272522086807_6f2fece3b2d970385949_192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-01-02/292865659441_a7dc2c814928863eab2f_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "Angela Cordova",
-    "avatar": "https://avatars.slack-edge.com/2016-08-25/73127882049_aaaa3e2c1ad56aa38c8a_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-01-04/293424002289_2b7f5ff39197b14ab4fd_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -54,10 +54,16 @@
     "tz": "America/Indiana/Indianapolis"
   },
   {
+    "name": "Colby Sato",
+    "avatar": "https://secure.gravatar.com/avatar/1fc777c60202c78e4c75199ab9b0704b.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0000-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Daniel Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
-    "city": null,
-    "tz": "Pacific/Honolulu"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Dante Cavero",
@@ -182,14 +188,14 @@
   {
     "name": "Jake Przespo",
     "avatar": "https://avatars.slack-edge.com/2017-04-06/165841614868_6d9a86d3db984d68ea99_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Javier Olaechea",
@@ -235,7 +241,7 @@
   },
   {
     "name": "Julio Guerra",
-    "avatar": "https://avatars.slack-edge.com/2017-04-20/172000288451_65b824a65e27cb4bd446_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-01-03/293887715140_c82f21fd71863b5b6d28_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -308,8 +314,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
