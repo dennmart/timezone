@@ -194,8 +194,8 @@
   {
     "name": "Jake Przespo",
     "avatar": "https://avatars.slack-edge.com/2017-04-06/165841614868_6d9a86d3db984d68ea99_192.jpg",
-    "city": null,
-    "tz": "Asia/Chongqing"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jason Roos",
@@ -332,8 +332,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Cachay",
@@ -392,8 +392,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
