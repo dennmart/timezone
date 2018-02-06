@@ -217,7 +217,7 @@
   },
   {
     "name": "Joe Rodriguez",
-    "avatar": "https://avatars.slack-edge.com/2016-10-10/89631567909_2620bf8cbf7f3e222c63_192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-02-01/307932541825_2063e18e353cc9c4eee1_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
   },
@@ -301,7 +301,7 @@
   },
   {
     "name": "Mariella Miranda",
-    "avatar": "https://avatars.slack-edge.com/2017-11-20/275109170578_16068f4816eb020000e4_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-01-30/306501168464_d8f2dffb570abad139e9_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -332,8 +332,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Cachay",
