@@ -332,8 +332,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Cachay",
@@ -350,12 +350,6 @@
   {
     "name": "Ninisha Shah",
     "avatar": "https://avatars.slack-edge.com/2018-01-17/300409559013_5d7f1417efbec91a52ee_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Pamela Linera",
-    "avatar": "https://secure.gravatar.com/avatar/aaf63d5fccb6bd5c442713598463a072.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -403,7 +397,7 @@
   },
   {
     "name": "yana andrea",
-    "avatar": "https://secure.gravatar.com/avatar/5ec85d5181c832bc2a800d810016b5d3.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0003-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-02-08/313231130166_247b9ab67c81f85affe9_192.jpg",
     "city": "Denver",
     "tz": "America/Denver"
   }
