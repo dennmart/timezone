@@ -126,6 +126,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "estuardo",
+    "avatar": "https://secure.gravatar.com/avatar/dfb431b62bc1cf4b6641a61e757311cb.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0010-192.png",
+    "city": "Denver",
+    "tz": "America/Denver"
+  },
+  {
     "name": "Etienne Maugain",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183781036114_2cd6a0ed9a6268f9e652_192.png",
     "city": "San Francisco",
@@ -164,8 +170,8 @@
   {
     "name": "Guillermo Iguaran",
     "avatar": "https://avatars.slack-edge.com/2017-06-05/193862952407_617b07c6636a9519560c_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Guisella Acuña",
@@ -247,7 +253,7 @@
   },
   {
     "name": "Julio Guerra",
-    "avatar": "https://avatars.slack-edge.com/2018-01-03/293887715140_c82f21fd71863b5b6d28_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-03-01/324106542678_276eb6567a87530fb250_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -306,14 +312,14 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "mario",
-    "avatar": "https://avatars.slack-edge.com/2017-11-21/275032290800_e3355916eae1104a3123_192.png",
+    "name": "Marivel Quiroz",
+    "avatar": "https://avatars.slack-edge.com/2016-06-02/47798097158_7efa32694c4cdc8e0d36_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
   {
-    "name": "Marivel Quiroz",
-    "avatar": "https://avatars.slack-edge.com/2016-06-02/47798097158_7efa32694c4cdc8e0d36_192.jpg",
+    "name": "marsam",
+    "avatar": "https://avatars.slack-edge.com/2017-11-21/275032290800_e3355916eae1104a3123_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -386,8 +392,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Vero Rebagliatte",
