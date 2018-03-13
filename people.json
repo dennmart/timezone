@@ -109,7 +109,7 @@
   },
   {
     "name": "Elizabeth Manrique",
-    "avatar": "https://avatars.slack-edge.com/2017-10-10/253796207072_2ba1550444c091623d01_192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-03-12/328129547729_50da05d639ceb4460271_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -170,8 +170,8 @@
   {
     "name": "Guillermo Iguaran",
     "avatar": "https://avatars.slack-edge.com/2017-06-05/193862952407_617b07c6636a9519560c_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Guisella Acuña",
@@ -289,7 +289,7 @@
   },
   {
     "name": "marco",
-    "avatar": "https://secure.gravatar.com/avatar/16e937c4a5542693cbd1ebc8fd4f7247.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-03-08/327835190822_2e10268e0c5313a048ac_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -326,8 +326,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Miche Capone",
@@ -338,8 +338,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Cachay",
@@ -380,8 +380,8 @@
   {
     "name": "Ricardo Díaz",
     "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": null,
+    "tz": "America/Santiago"
   },
   {
     "name": "Ricky Cheng",
@@ -392,8 +392,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
