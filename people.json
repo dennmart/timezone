@@ -126,8 +126,8 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "estuardo",
-    "avatar": "https://secure.gravatar.com/avatar/dfb431b62bc1cf4b6641a61e757311cb.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0010-192.png",
+    "name": "Estuardo Masias",
+    "avatar": "https://avatars.slack-edge.com/2018-03-13/329451436069_c086601dbb2abc1ab819_192.jpg",
     "city": "Denver",
     "tz": "America/Denver"
   },
@@ -326,8 +326,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
