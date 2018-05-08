@@ -186,8 +186,8 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "henry",
-    "avatar": "https://secure.gravatar.com/avatar/cf79ad5baaec654201524df9df652dce.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0019-192.png",
+    "name": "Henry Netzer",
+    "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -200,8 +200,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Javier Olaechea",
@@ -283,7 +283,7 @@
   },
   {
     "name": "luisfernando",
-    "avatar": "https://secure.gravatar.com/avatar/3a228ddb30cea9f1e6a0d049faf59b6d.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0006-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-05-03/358134798738_d6d82a1f910cf225eecc_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -349,7 +349,7 @@
   },
   {
     "name": "nelson",
-    "avatar": "https://avatars.slack-edge.com/2017-10-12/255503642741_1f0229e46c6cfae8bd07_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-05-03/357487784561_03cde56d633cbd53300d_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -391,7 +391,7 @@
   },
   {
     "name": "sophie",
-    "avatar": "https://secure.gravatar.com/avatar/8ec35bc28590b5b15f7906c165535bb0.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0009-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-05-02/356406820576_7f3c018cf56d9561e6f6_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
   },
@@ -410,7 +410,7 @@
   {
     "name": "yana andrea",
     "avatar": "https://avatars.slack-edge.com/2018-02-08/313231130166_247b9ab67c81f85affe9_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Denver",
+    "tz": "America/Denver"
   }
 ]
