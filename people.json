@@ -62,8 +62,8 @@
   {
     "name": "Ben Polansky",
     "avatar": "https://avatars.slack-edge.com/2018-01-09/297250707030_165640b2d856ee5ddda4_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Colby Sato",
@@ -122,8 +122,8 @@
   {
     "name": "Elizabeth Portilla",
     "avatar": "https://avatars.slack-edge.com/2017-11-07/269451540183_0529732598841c4e18b2_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Erica Madeira",
@@ -190,6 +190,12 @@
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "ingrid",
+    "avatar": "https://avatars.slack-edge.com/2018-05-14/362835104672_ee72a79d99a75133cf98_192.jpg",
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jake Przespo",
@@ -266,8 +272,8 @@
   {
     "name": "Kathy Cheng",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Lizbeth Noriega",
@@ -338,8 +344,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Cachay",
@@ -397,7 +403,7 @@
   },
   {
     "name": "Taylor McLemore",
-    "avatar": "https://avatars.slack-edge.com/2016-04-22/37038835491_76988bb830bf9323db5d_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
