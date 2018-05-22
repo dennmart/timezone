@@ -62,8 +62,8 @@
   {
     "name": "Ben Polansky",
     "avatar": "https://avatars.slack-edge.com/2018-01-09/297250707030_165640b2d856ee5ddda4_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Colby Sato",
@@ -192,7 +192,7 @@
     "tz": "America/Los_Angeles"
   },
   {
-    "name": "ingrid",
+    "name": "Ingrid Kenyon",
     "avatar": "https://avatars.slack-edge.com/2018-05-14/362835104672_ee72a79d99a75133cf98_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
@@ -404,8 +404,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Vero Rebagliatte",
