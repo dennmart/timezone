@@ -72,7 +72,7 @@
     "tz": "America/Los_Angeles"
   },
   {
-    "name": "Daniel Conway",
+    "name": "Danny Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
@@ -114,6 +114,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "edgar",
+    "avatar": "https://avatars.slack-edge.com/2018-05-24/370718414007_62aa2554a77e9246a159_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Elizabeth Manrique",
     "avatar": "https://avatars.slack-edge.com/2018-04-23/351098586080_96976f0d11522ac83418_192.png",
     "city": "Lima",
@@ -122,8 +128,8 @@
   {
     "name": "Elizabeth Portilla",
     "avatar": "https://avatars.slack-edge.com/2017-11-07/269451540183_0529732598841c4e18b2_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Erica Madeira",
@@ -234,6 +240,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "juan jose",
+    "avatar": "https://avatars.slack-edge.com/2018-05-23/370120664470_fcc75c33dfb0e13c23f0_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Juan LaJara",
     "avatar": "https://avatars.slack-edge.com/2017-08-20/229206249938_cadc327fd6bd636c532a_192.png",
     "city": "Lima",
@@ -319,7 +331,7 @@
   },
   {
     "name": "Marivel Quiroz",
-    "avatar": "https://avatars.slack-edge.com/2016-06-02/47798097158_7efa32694c4cdc8e0d36_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-05-23/370162376630_c5a9623aaf35a67f7801_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -344,8 +356,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Cachay",
@@ -404,8 +416,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Vero Rebagliatte",
