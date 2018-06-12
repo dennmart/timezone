@@ -18,12 +18,6 @@
     "tz": "America/Buenos_Aires"
   },
   {
-    "name": "alfredo miranda",
-    "avatar": "https://avatars.slack-edge.com/2017-09-21/244887843556_34f1704ef42b7cfe96fa_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Alfredo Sumaran",
     "avatar": "https://avatars.slack-edge.com/2017-08-15/226795566995_3c6306a636f9eef6e7c6_192.jpg",
     "city": "Lima",
@@ -32,8 +26,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Angela Cordova",
@@ -128,8 +122,8 @@
   {
     "name": "Elizabeth Portilla",
     "avatar": "https://avatars.slack-edge.com/2017-11-07/269451540183_0529732598841c4e18b2_192.jpg",
-    "city": "Europe/Amsterdam",
-    "tz": "Europe/Amsterdam"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Erica Madeira",
@@ -248,8 +242,8 @@
   {
     "name": "Juan LaJara",
     "avatar": "https://avatars.slack-edge.com/2017-08-20/229206249938_cadc327fd6bd636c532a_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Juan-Pablo Scaletti",
@@ -356,8 +350,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Cachay",
