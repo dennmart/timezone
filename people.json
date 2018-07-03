@@ -126,12 +126,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Elizabeth Portilla",
-    "avatar": "https://avatars.slack-edge.com/2017-11-07/269451540183_0529732598841c4e18b2_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Erica Madeira",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/150681769395_24b85b699d2de61ee4e0_192.png",
     "city": "San Francisco",
@@ -145,7 +139,7 @@
   },
   {
     "name": "Fatima Salas",
-    "avatar": "https://secure.gravatar.com/avatar/4172c3a87506b3a8cb094ea8b1f1a2c2.jpg?s=192&d=https%3A%2F%2Fcfr.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0026-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-06-27/389149487523_9fcf3543fac5a6b83277_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -230,8 +224,8 @@
   {
     "name": "Jennifer Park",
     "avatar": "https://avatars.slack-edge.com/2016-07-27/63854286519_5dd916634006cdb3349a_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Joe Rodriguez",
@@ -309,7 +303,7 @@
     "name": "Lourdes Cordova",
     "avatar": "https://avatars.slack-edge.com/2017-01-04/123968419350_5355e6460e66e037fb88_192.jpg",
     "city": "Lima",
-    "tz": "America/Bogota"
+    "tz": "America/Buenos_Aires"
   },
   {
     "name": "luisfernando",
@@ -362,8 +356,8 @@
   {
     "name": "Miche Capone",
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Mike Potter",
@@ -385,7 +379,7 @@
   },
   {
     "name": "Ninisha Shah",
-    "avatar": "https://avatars.slack-edge.com/2018-01-17/300409559013_5d7f1417efbec91a52ee_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-07-02/391276893809_9d1126bcf553285a4dd0_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
