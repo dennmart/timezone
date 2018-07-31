@@ -80,8 +80,8 @@
   {
     "name": "Danny Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Europe/Brussels",
+    "tz": "Europe/Brussels"
   },
   {
     "name": "Dante Cavero",
@@ -109,9 +109,9 @@
   },
   {
     "name": "Eder Rengifo",
-    "avatar": "https://avatars.slack-edge.com/2017-01-10/125736444117_7b4dae61763cc451eca5_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "avatar": "https://avatars.slack-edge.com/2018-07-30/406855354049_cb2c5ba5d9a0fe8c55c3_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "edgar",
@@ -362,8 +362,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "Australia/Canberra",
-    "tz": "Australia/Canberra"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
