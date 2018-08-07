@@ -80,8 +80,8 @@
   {
     "name": "Danny Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Dante Cavero",
@@ -140,8 +140,8 @@
   {
     "name": "Estuardo Masias",
     "avatar": "https://avatars.slack-edge.com/2018-03-13/329451436069_c086601dbb2abc1ab819_192.jpg",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Fatima Salas",
@@ -374,8 +374,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Cachay",
@@ -440,8 +440,8 @@
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Uruguay",
+    "tz": "America/Montevideo"
   },
   {
     "name": "Victoria Sánchez Martínez",
