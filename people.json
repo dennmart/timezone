@@ -74,8 +74,8 @@
   {
     "name": "Colby Sato",
     "avatar": "https://avatars.slack-edge.com/2018-01-09/296470387397_eaa9351766a28dfd1c75_192.jpg",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Danny Conway",
@@ -194,6 +194,12 @@
   {
     "name": "Gustavo Delgado",
     "avatar": "https://avatars.slack-edge.com/2017-07-18/213860233472_d9c8f3d32f9ddea78c3e_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Hector Paz",
+    "avatar": "https://avatars.slack-edge.com/2018-08-07/412100706164_597f74b29e14dd3e50ad_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
