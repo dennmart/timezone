@@ -1,7 +1,7 @@
 [
   {
     "name": "alberto",
-    "avatar": "https://secure.gravatar.com/avatar/58cc3c1c920074631271aadd8db68ccd.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0018-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-08-09/413949492307_6f642242fe1d20ebec5a_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -224,8 +224,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Javier Olaechea",
