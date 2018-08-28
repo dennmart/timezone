@@ -13,7 +13,7 @@
   },
   {
     "name": "Alfonso Mello",
-    "avatar": "https://avatars.slack-edge.com/2017-08-15/227000182949_6a9b9518629bd4835b28_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-08-23/421925686883_67a1abe1a2931580f455_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -206,8 +206,8 @@
   {
     "name": "Henry Netzer",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Ingrid Kenyon",
@@ -254,8 +254,8 @@
   {
     "name": "Juan LaJara",
     "avatar": "https://avatars.slack-edge.com/2017-08-20/229206249938_cadc327fd6bd636c532a_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Juan-Pablo Scaletti",
@@ -440,8 +440,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
