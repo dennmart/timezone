@@ -13,7 +13,7 @@
   },
   {
     "name": "Alfonso Mello",
-    "avatar": "https://avatars.slack-edge.com/2018-08-23/421925686883_67a1abe1a2931580f455_192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-09-04/428577950673_948c256f662efaa2db35_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -73,7 +73,7 @@
   },
   {
     "name": "Colby Sato",
-    "avatar": "https://avatars.slack-edge.com/2018-01-09/296470387397_eaa9351766a28dfd1c75_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-08-30/426846287301_19624bbdd745634701db_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -170,8 +170,8 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Guillermo Iguaran",
@@ -214,6 +214,12 @@
     "avatar": "https://avatars.slack-edge.com/2018-05-14/362835104672_ee72a79d99a75133cf98_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
+  },
+  {
+    "name": "inna",
+    "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jake Przespo",
@@ -368,14 +374,14 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Mike Potter",
@@ -410,8 +416,8 @@
   {
     "name": "pradeepa",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/346886701120_a39ca4adcc0ad1d98a7e_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Rafael Meza",
