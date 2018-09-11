@@ -21,7 +21,7 @@
     "name": "Alfredo Escalante",
     "avatar": "https://avatars.slack-edge.com/2018-01-17/300310501252_b200311c74c9983aa2ba_192.jpg",
     "city": "Lima",
-    "tz": "America/Buenos_Aires"
+    "tz": "America/Bogota"
   },
   {
     "name": "Alfredo Sumaran",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Ben Polansky",
-    "avatar": "https://avatars.slack-edge.com/2018-01-09/297250707030_165640b2d856ee5ddda4_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-09-06/430550128388_651c42d2285fe8f57d1e_192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -170,8 +170,8 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Guillermo Iguaran",
@@ -230,8 +230,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Javier Olaechea",
@@ -254,14 +254,14 @@
   {
     "name": "juan jose",
     "avatar": "https://avatars.slack-edge.com/2018-05-23/370120664470_fcc75c33dfb0e13c23f0_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Juan LaJara",
     "avatar": "https://avatars.slack-edge.com/2017-08-20/229206249938_cadc327fd6bd636c532a_192.png",
-    "city": "America/Mexico_City",
-    "tz": "America/Mexico_City"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Juan-Pablo Scaletti",
@@ -314,8 +314,8 @@
   {
     "name": "Lizbeth Noriega",
     "avatar": "https://avatars.slack-edge.com/2017-07-06/208752654082_3420eb87ea1e1ebb1f8c_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Lourdes Cordova",
@@ -332,8 +332,8 @@
   {
     "name": "luisfernando",
     "avatar": "https://avatars.slack-edge.com/2018-05-03/358134798738_d6d82a1f910cf225eecc_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "marco",
@@ -386,8 +386,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Moisés Cachay",
@@ -428,8 +428,8 @@
   {
     "name": "Raymi Saldomando",
     "avatar": "https://avatars.slack-edge.com/2018-06-18/382982080225_a127b4c2e896781fd6df_192.jpg",
-    "city": "America/Santiago",
-    "tz": "America/Santiago"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Ricardo Díaz",
@@ -438,22 +438,28 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "sandra",
+    "avatar": "https://secure.gravatar.com/avatar/4a7723f3f5f1b3db9e93250cf51ff835.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "sophie",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/356406820576_7f3c018cf56d9561e6f6_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "America/Regina",
-    "tz": "America/Regina"
+    "city": "Uruguay",
+    "tz": "America/Montevideo"
   },
   {
     "name": "Victoria Sánchez Martínez",
