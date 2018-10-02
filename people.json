@@ -13,7 +13,7 @@
   },
   {
     "name": "Alex Mendoza",
-    "avatar": "https://secure.gravatar.com/avatar/c2c9481db9a96a4fe9ee2cbc4a8650a1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-09-25/442805285332_ca4b918bd5ac3e7ea626_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -56,8 +56,8 @@
   {
     "name": "Ben Lim",
     "avatar": "https://avatars.slack-edge.com/2017-05-17/184631329522_e4a56d129f44e3215e4b_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ben Polansky",
@@ -212,8 +212,8 @@
   {
     "name": "Ingrid Kenyon",
     "avatar": "https://avatars.slack-edge.com/2018-05-14/362835104672_ee72a79d99a75133cf98_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "inna",
@@ -224,8 +224,8 @@
   {
     "name": "Jake Przespo",
     "avatar": "https://avatars.slack-edge.com/2017-04-06/165841614868_6d9a86d3db984d68ea99_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jason Roos",
@@ -248,8 +248,8 @@
   {
     "name": "jose",
     "avatar": "https://avatars.slack-edge.com/2017-09-19/244723814311_20272235759b41fc52ec_192.jpg",
-    "city": "Asia/Chongqing",
-    "tz": "Asia/Chongqing"
+    "city": "Asia/Bangkok",
+    "tz": "Asia/Bangkok"
   },
   {
     "name": "juan jose",
@@ -326,8 +326,8 @@
   {
     "name": "luigi",
     "avatar": "https://avatars.slack-edge.com/2018-07-11/397812032359_f30e883468ee4a551a18_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "luisfernando",
@@ -346,12 +346,6 @@
     "avatar": "https://avatars.slack-edge.com/2017-10-10/254277004629_605c9da22cfe1c86b840_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
-  },
-  {
-    "name": "Maria Feliciano",
-    "avatar": "https://avatars.slack-edge.com/2017-04-12/168894770343_4d430ba70aca12a8f98a_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
   },
   {
     "name": "Mariella Miranda",
