@@ -30,6 +30,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "amolero",
+    "avatar": "https://avatars.slack-edge.com/2018-10-05/451350592711_dfbbdcd73256bb6308ad_192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
     "city": "New York",
@@ -230,8 +236,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Osaka",
+    "tz": "Asia/Tokyo"
   },
   {
     "name": "Javier Olaechea",
@@ -248,8 +254,8 @@
   {
     "name": "jose",
     "avatar": "https://avatars.slack-edge.com/2017-09-19/244723814311_20272235759b41fc52ec_192.jpg",
-    "city": "Asia/Bangkok",
-    "tz": "Asia/Bangkok"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "juan jose",
@@ -402,10 +408,22 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "nikolas",
+    "avatar": "https://secure.gravatar.com/avatar/dc8fe69c96edc573be111a8d5a8471cd.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Ninisha Shah",
     "avatar": "https://avatars.slack-edge.com/2018-07-02/391276893809_9d1126bcf553285a4dd0_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "patricia",
+    "avatar": "https://secure.gravatar.com/avatar/86f2e8dd6185d2968fa4b4fbcb61d56f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Paul Antaki",
@@ -454,6 +472,12 @@
     "avatar": "https://avatars.slack-edge.com/2018-05-02/356406820576_7f3c018cf56d9561e6f6_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
+  },
+  {
+    "name": "stephanie",
+    "avatar": "https://secure.gravatar.com/avatar/ca275dc0834210318015d85a0c35b96b.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Taylor McLemore",
