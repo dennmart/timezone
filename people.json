@@ -266,8 +266,8 @@
   {
     "name": "Jorge Valdivia Franco",
     "avatar": "https://secure.gravatar.com/avatar/2fd46862fcf458085131cb6372671648.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0019-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Cancun",
+    "tz": "America/Cancun"
   },
   {
     "name": "jose",
@@ -284,12 +284,6 @@
   {
     "name": "juan jose",
     "avatar": "https://avatars.slack-edge.com/2018-05-23/370120664470_fcc75c33dfb0e13c23f0_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Juan LaJara",
-    "avatar": "https://avatars.slack-edge.com/2017-08-20/229206249938_cadc327fd6bd636c532a_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -348,12 +342,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Lourdes Cordova",
-    "avatar": "https://avatars.slack-edge.com/2017-01-04/123968419350_5355e6460e66e037fb88_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Lubitsa Lombira",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/457721870405_4077026977b68dc064a7_192.jpg",
     "city": "Lima",
@@ -385,7 +373,7 @@
   },
   {
     "name": "Mariella Miranda",
-    "avatar": "https://avatars.slack-edge.com/2018-01-30/306501168464_d8f2dffb570abad139e9_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2018-11-30/492214542883_0af1df3860bdcc3b7e2d_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -410,8 +398,8 @@
   {
     "name": "Miche Capone",
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Mike Potter",
