@@ -30,10 +30,22 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Alvaro Ricardo Villanueva Moran",
+    "avatar": "https://secure.gravatar.com/avatar/023dd3059384fdb6c64fd2540a4c1e38.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "amolero",
     "avatar": "https://avatars.slack-edge.com/2018-10-05/451350592711_dfbbdcd73256bb6308ad_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "andres",
+    "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Andy Ni",
@@ -188,8 +200,8 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Guillermo Iguaran",
@@ -236,8 +248,8 @@
   {
     "name": "inna",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jake Przespo",
@@ -260,14 +272,20 @@
   {
     "name": "Jennifer Park",
     "avatar": "https://avatars.slack-edge.com/2016-07-27/63854286519_5dd916634006cdb3349a_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "jnavarro",
+    "avatar": "https://avatars.slack-edge.com/2018-12-07/498114480948_ba846bc3b79e0c4e51fc_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jorge Valdivia Franco",
     "avatar": "https://secure.gravatar.com/avatar/2fd46862fcf458085131cb6372671648.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0019-192.png",
-    "city": "America/Cancun",
-    "tz": "America/Cancun"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "jose",
@@ -404,8 +422,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Cachay",
@@ -434,8 +452,8 @@
   {
     "name": "Ninisha Shah",
     "avatar": "https://avatars.slack-edge.com/2018-07-02/391276893809_9d1126bcf553285a4dd0_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Asia/Kolkata",
+    "tz": "Asia/Kolkata"
   },
   {
     "name": "patricia",
@@ -476,8 +494,8 @@
   {
     "name": "sandra",
     "avatar": "https://secure.gravatar.com/avatar/4a7723f3f5f1b3db9e93250cf51ff835.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Sergio Xalambrí",
