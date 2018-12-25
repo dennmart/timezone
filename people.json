@@ -50,8 +50,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Asia/Taipei",
+    "tz": "Asia/Taipei"
   },
   {
     "name": "Angela Cordova",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Cristhiam Teran",
-    "avatar": "https://secure.gravatar.com/avatar/48b11eb6c652a08f7f26f2b0ca4b5c6d.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0019-192.png",
+    "avatar": "https://avatars.slack-edge.com/2018-12-18/506263709344_1d9edf0ecea1367ef6db_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -116,12 +116,6 @@
   {
     "name": "David Goodman",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/458528492055_83837f0100dca25c6591_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
-  },
-  {
-    "name": "Dennis Huillca",
-    "avatar": "https://avatars.slack-edge.com/2017-09-21/244160451840_3b9ec967cc23f6c7dd68_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -266,8 +260,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Javier Olaechea",
@@ -350,8 +344,8 @@
   {
     "name": "Kathy Cheng",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Kattya Cuevas",
@@ -422,20 +416,14 @@
   {
     "name": "Miche Capone",
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
-  },
-  {
-    "name": "Moisés Cachay",
-    "avatar": "https://avatars.slack-edge.com/2017-02-28/148609304663_c6316a638a9381206450_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
   },
   {
     "name": "Moisés Ñañez",
