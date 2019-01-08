@@ -176,8 +176,8 @@
   {
     "name": "Felix Montes",
     "avatar": "https://avatars.slack-edge.com/2017-02-26/146629699202_482a5700787ffe032c7d_192.jpg",
-    "city": "America/Santiago",
-    "tz": "America/Santiago"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "german",
@@ -344,8 +344,8 @@
   {
     "name": "Kathy Cheng",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Kattya Cuevas",
@@ -410,8 +410,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
@@ -422,8 +422,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Ñañez",
@@ -452,8 +452,8 @@
   {
     "name": "patricia",
     "avatar": "https://avatars.slack-edge.com/2018-10-10/453414858373_694897bd81e5ed46df00_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Paul Antaki",
@@ -518,8 +518,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
@@ -535,7 +535,7 @@
   },
   {
     "name": "Ximena Alvarado",
-    "avatar": "https://avatars.slack-edge.com/2018-11-28/491941869990_feb496ddf870a4dbb567_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-01-07/518760873557_d6b5b7d502605fb99f8e_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   }
