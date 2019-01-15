@@ -24,12 +24,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Alfredo Sumaran",
-    "avatar": "https://avatars.slack-edge.com/2018-11-21/487183850406_cf0fb1bb24a38c8944b7_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Alvaro Ricardo Villanueva Moran",
     "avatar": "https://avatars.slack-edge.com/2018-12-17/507002484407_b44621ec52b9b39a39f0_192.jpg",
     "city": "Lima",
@@ -158,8 +152,8 @@
   {
     "name": "Erica Madeira",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/150681769395_24b85b699d2de61ee4e0_192.png",
-    "city": "America/Tijuana",
-    "tz": "America/Tijuana"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Estuardo Masias",
@@ -174,8 +168,20 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Felipe Pacora",
+    "avatar": "https://avatars.slack-edge.com/2019-01-11/521352479809_315c303da5487fe580f2_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Felix Montes",
     "avatar": "https://avatars.slack-edge.com/2017-02-26/146629699202_482a5700787ffe032c7d_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Freddy Cahuas",
+    "avatar": "https://avatars.slack-edge.com/2019-01-09/519913801459_d65b420bf0a51857f3b6_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -344,8 +350,8 @@
   {
     "name": "Kathy Cheng",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
-    "city": "Europe/Amsterdam",
-    "tz": "Europe/Amsterdam"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Kattya Cuevas",
@@ -418,6 +424,12 @@
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "miguel",
+    "avatar": "https://avatars.slack-edge.com/2019-01-10/521828435447_5e5f46c93f7b8e9aa1a1_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Mike Potter",
@@ -498,6 +510,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "sneha",
+    "avatar": "https://avatars.slack-edge.com/2019-01-09/520310153653_29d086874d870cd7e89c_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Sofia Vargas Machuca",
     "avatar": "https://avatars.slack-edge.com/2018-11-28/490533401266_60b6e8b49b619840f1fe_192.jpg",
     "city": "Lima",
@@ -535,7 +553,7 @@
   },
   {
     "name": "Ximena Alvarado",
-    "avatar": "https://avatars.slack-edge.com/2019-01-07/518760873557_d6b5b7d502605fb99f8e_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-01-14/524638980374_7fe272d966168708e1a9_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   }
