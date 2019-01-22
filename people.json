@@ -121,7 +121,7 @@
   },
   {
     "name": "Derek Weingart",
-    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7e126%2Fimg%2Favatars%2F_rebrand%2Fava_0007-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
@@ -158,8 +158,8 @@
   {
     "name": "Estuardo Masias",
     "avatar": "https://avatars.slack-edge.com/2018-03-13/329451436069_c086601dbb2abc1ab819_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Fatima Salas",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Felipe Pacora",
-    "avatar": "https://avatars.slack-edge.com/2019-01-11/521352479809_315c303da5487fe580f2_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-01-20/527822713329_c6a05993ba8b70c1c9a1_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -282,8 +282,14 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "Jorge Altamirano",
+    "avatar": "https://avatars.slack-edge.com/2019-01-17/526037129520_7d39ed18b55be85bae7c_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Jorge Valdivia Franco",
-    "avatar": "https://avatars.slack-edge.com/2018-12-17/506240691746_617f4d3fc0390888a9fe_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-01-15/525975584646_c9af4785b13c76d775eb_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -422,8 +428,8 @@
   {
     "name": "Miche Capone",
     "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "miguel",
@@ -458,8 +464,8 @@
   {
     "name": "Ninisha Shah",
     "avatar": "https://avatars.slack-edge.com/2018-07-02/391276893809_9d1126bcf553285a4dd0_192.jpg",
-    "city": "Asia/Kolkata",
-    "tz": "Asia/Kolkata"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "patricia",
@@ -469,7 +475,7 @@
   },
   {
     "name": "Paul Antaki",
-    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7e126%2Fimg%2Favatars%2F_rebrand%2Fava_0007-192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -493,13 +499,13 @@
   },
   {
     "name": "Ricardo Díaz",
-    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7e126%2Fimg%2Favatars%2F_rebrand%2Fava_0001-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
   {
     "name": "sandra",
-    "avatar": "https://secure.gravatar.com/avatar/4a7723f3f5f1b3db9e93250cf51ff835.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/4a7723f3f5f1b3db9e93250cf51ff835.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F89374%2Fimg%2Favatars%2F_rebrand%2Fava_0025-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -510,7 +516,7 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "sneha",
+    "name": "Sneha Kachroo",
     "avatar": "https://avatars.slack-edge.com/2019-01-09/520310153653_29d086874d870cd7e89c_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
@@ -536,8 +542,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "Osaka",
+    "tz": "Asia/Tokyo"
   },
   {
     "name": "Vero Rebagliatte",
