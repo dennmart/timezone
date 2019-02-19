@@ -146,8 +146,8 @@
   {
     "name": "Emilio Blanco",
     "avatar": "https://avatars.slack-edge.com/2018-07-03/392262525651_f6a2f9e88ad25057b193_192.jpg",
-    "city": "America/Sao_Paulo",
-    "tz": "America/Sao_Paulo"
+    "city": "America/Asuncion",
+    "tz": "America/Asuncion"
   },
   {
     "name": "Erica Madeira",
@@ -416,8 +416,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "Asia/Muscat",
-    "tz": "Asia/Muscat"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Paul Antaki",
-    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-02-14/550978230049_d0c9a5f600bd06c4b655_192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
