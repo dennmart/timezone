@@ -74,8 +74,8 @@
   {
     "name": "Ben Polansky",
     "avatar": "https://avatars.slack-edge.com/2018-09-06/430550128388_651c42d2285fe8f57d1e_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Bruno Gonzales",
@@ -92,14 +92,14 @@
   {
     "name": "Danny Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Danny Mayi",
     "avatar": "https://avatars.slack-edge.com/2018-10-30/466989527312_1f3a06a9ff6215370914_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Dante Cavero",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Elizabeth Manrique",
-    "avatar": "https://avatars.slack-edge.com/2018-11-06/474452561318_9f57434dd689122aafeb_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-03-18/580522494629_b98b2b1072c7a2192c96_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -200,12 +200,6 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Guillermo Iguaran",
-    "avatar": "https://avatars.slack-edge.com/2017-06-05/193862952407_617b07c6636a9519560c_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -410,8 +404,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Miche Capone",
@@ -464,12 +458,12 @@
   {
     "name": "Paul Antaki",
     "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
-    "city": "America/Phoenix",
-    "tz": "America/Phoenix"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Pradeepa Dhanasekar",
-    "avatar": "https://avatars.slack-edge.com/2018-04-16/346886701120_a39ca4adcc0ad1d98a7e_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-03-15/579326601767_47fcde096a0c83373914_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -524,8 +518,8 @@
   {
     "name": "Stephanie Johnson Padilla",
     "avatar": "https://avatars.slack-edge.com/2018-10-17/459643002135_695a52db5c8a3fe2b7d7_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Taylor McLemore",
