@@ -145,7 +145,7 @@
   },
   {
     "name": "Elizabeth Manrique",
-    "avatar": "https://avatars.slack-edge.com/2019-03-18/580522494629_b98b2b1072c7a2192c96_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-03-26/590388328375_b9ceade19f10eea5fd7a_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -202,6 +202,12 @@
     "avatar": "https://avatars.slack-edge.com/2017-10-04/250799829793_73e107c035435a4b4716_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "gleon",
+    "avatar": "https://avatars.slack-edge.com/2019-03-26/588787248533_878341ceac244e503ee1_192.jpg",
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Gubell Benites",
@@ -434,8 +440,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Ñañez",
@@ -481,9 +487,9 @@
   },
   {
     "name": "Rafael Huaman",
-    "avatar": "https://avatars.slack-edge.com/2019-03-25/587656540949_f359524b0b17a247ae11_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "avatar": "https://avatars.slack-edge.com/2019-03-26/588190707524_4611dff41095a8c12cda_192.jpg",
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Rafael Meza",
@@ -500,8 +506,8 @@
   {
     "name": "Ricardo Díaz",
     "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0001-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Santiago",
+    "tz": "America/Santiago"
   },
   {
     "name": "Sandra Barreda",
@@ -536,14 +542,14 @@
   {
     "name": "Stephanie Johnson Padilla",
     "avatar": "https://avatars.slack-edge.com/2018-10-17/459643002135_695a52db5c8a3fe2b7d7_192.jpg",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Vero Rebagliatte",
