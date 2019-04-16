@@ -158,8 +158,8 @@
   {
     "name": "Erica Madeira",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/150681769395_24b85b699d2de61ee4e0_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Estuardo Masias",
@@ -204,12 +204,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "gleon",
-    "avatar": "https://avatars.slack-edge.com/2019-03-26/588787248533_878341ceac244e503ee1_192.jpg",
-    "city": "America/Mexico_City",
-    "tz": "America/Mexico_City"
-  },
-  {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
     "city": "Lima",
@@ -234,6 +228,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Gustavo Leon",
+    "avatar": "https://avatars.slack-edge.com/2019-03-26/588787248533_878341ceac244e503ee1_192.jpg",
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
+  },
+  {
     "name": "Hector Paz",
     "avatar": "https://avatars.slack-edge.com/2018-08-07/412100706164_597f74b29e14dd3e50ad_192.jpg",
     "city": "Lima",
@@ -242,8 +242,8 @@
   {
     "name": "Henry Netzer",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Hunter Scarborough",
@@ -260,8 +260,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Osaka",
+    "tz": "Asia/Tokyo"
   },
   {
     "name": "Jake Przespo",
@@ -374,8 +374,8 @@
   {
     "name": "Lubitsa Lombira",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/457721870405_4077026977b68dc064a7_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Brussels",
+    "tz": "Europe/Brussels"
   },
   {
     "name": "Luigi Aguirre",
@@ -506,8 +506,8 @@
   {
     "name": "Ricardo Díaz",
     "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0001-192.png",
-    "city": "America/Santiago",
-    "tz": "America/Santiago"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Sandra Barreda",
@@ -548,14 +548,14 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "Uruguay",
-    "tz": "America/Montevideo"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Victoria Sánchez Martínez",
