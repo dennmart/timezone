@@ -90,6 +90,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Cat Lagman",
+    "avatar": "https://avatars.slack-edge.com/2019-04-22/609035317553_50970a4fb057bc6091db_192.jpg",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
+  },
+  {
     "name": "Cristhiam Teran",
     "avatar": "https://avatars.slack-edge.com/2018-12-18/506263709344_1d9edf0ecea1367ef6db_192.jpg",
     "city": "Lima",
@@ -242,8 +248,8 @@
   {
     "name": "Henry Netzer",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Hunter Scarborough",
@@ -260,8 +266,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "Osaka",
-    "tz": "Asia/Tokyo"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jake Przespo",
@@ -374,8 +380,8 @@
   {
     "name": "Lubitsa Lombira",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/457721870405_4077026977b68dc064a7_192.jpg",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Luigi Aguirre",
@@ -453,7 +459,7 @@
     "name": "Nelson Gutierrez",
     "avatar": "https://avatars.slack-edge.com/2018-07-16/399517996914_bd806b5b5cbbddd85320_192.jpg",
     "city": "Lima",
-    "tz": "America/Bogota"
+    "tz": "America/Buenos_Aires"
   },
   {
     "name": "Nikolas Escuza",
@@ -482,8 +488,8 @@
   {
     "name": "Pradeepa Dhanasekar",
     "avatar": "https://avatars.slack-edge.com/2019-03-15/579326601767_47fcde096a0c83373914_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Cancun",
+    "tz": "America/Cancun"
   },
   {
     "name": "Rafael Huaman",
@@ -548,8 +554,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
