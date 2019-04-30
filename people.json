@@ -62,14 +62,14 @@
   {
     "name": "Becky Bochatey",
     "avatar": "https://avatars.slack-edge.com/2016-06-13/50582781810_7cf3b5fad69697251e93_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ben Lim",
     "avatar": "https://avatars.slack-edge.com/2017-05-17/184631329522_e4a56d129f44e3215e4b_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Ben Polansky",
@@ -164,8 +164,8 @@
   {
     "name": "Erica Madeira",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/150681769395_24b85b699d2de61ee4e0_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Estuardo Masias",
@@ -266,8 +266,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jake Przespo",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Juan-Pablo Scaletti",
-    "avatar": "https://avatars.slack-edge.com/2017-11-07/268429774979_7ba666bb90ca61b8d942_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-04-29/621359932896_17decc10c9c13bc6a698_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -446,8 +446,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Ñañez",
@@ -459,7 +459,7 @@
     "name": "Nelson Gutierrez",
     "avatar": "https://avatars.slack-edge.com/2018-07-16/399517996914_bd806b5b5cbbddd85320_192.jpg",
     "city": "Lima",
-    "tz": "America/Buenos_Aires"
+    "tz": "America/Bogota"
   },
   {
     "name": "Nikolas Escuza",
@@ -488,8 +488,8 @@
   {
     "name": "Pradeepa Dhanasekar",
     "avatar": "https://avatars.slack-edge.com/2019-03-15/579326601767_47fcde096a0c83373914_192.png",
-    "city": "America/Cancun",
-    "tz": "America/Cancun"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Rafael Huaman",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Raymi Saldomando",
-    "avatar": "https://avatars.slack-edge.com/2018-06-18/382982080225_a127b4c2e896781fd6df_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-04-28/620739162432_cd1a5394efa0e653b822_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
