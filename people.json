@@ -62,14 +62,14 @@
   {
     "name": "Becky Bochatey",
     "avatar": "https://avatars.slack-edge.com/2016-06-13/50582781810_7cf3b5fad69697251e93_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Ben Lim",
-    "avatar": "https://avatars.slack-edge.com/2017-05-17/184631329522_e4a56d129f44e3215e4b_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "avatar": "https://avatars.slack-edge.com/2019-04-30/611363488882_6994f75f4562f63f58e4_192.png",
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ben Polansky",
@@ -168,12 +168,6 @@
     "tz": "America/Los_Angeles"
   },
   {
-    "name": "Estuardo Masias",
-    "avatar": "https://avatars.slack-edge.com/2018-03-13/329451436069_c086601dbb2abc1ab819_192.jpg",
-    "city": "Denver",
-    "tz": "America/Denver"
-  },
-  {
     "name": "Fatima Salas",
     "avatar": "https://avatars.slack-edge.com/2019-03-25/586796086277_3b08266156b6c69437f3_192.jpg",
     "city": "Lima",
@@ -266,8 +260,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jake Przespo",
@@ -325,7 +319,7 @@
   },
   {
     "name": "Juan-Pablo Scaletti",
-    "avatar": "https://avatars.slack-edge.com/2019-04-29/621359932896_17decc10c9c13bc6a698_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-05-06/629740936406_20c1cc7f45552c8ce0cb_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -356,8 +350,8 @@
   {
     "name": "Karen Da Cruz",
     "avatar": "https://avatars.slack-edge.com/2016-02-02/20122708375_399707136dcd79bc1a2d_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Kathy Cheng",
@@ -392,8 +386,8 @@
   {
     "name": "Luis Fernando Mendoza",
     "avatar": "https://avatars.slack-edge.com/2018-05-03/358134798738_d6d82a1f910cf225eecc_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Manaus",
+    "tz": "America/Manaus"
   },
   {
     "name": "Marco Aviles",
@@ -560,8 +554,8 @@
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Uruguay",
+    "tz": "America/Montevideo"
   },
   {
     "name": "Victoria Sánchez Martínez",
