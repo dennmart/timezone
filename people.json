@@ -260,8 +260,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Jake Przespo",
@@ -278,8 +278,8 @@
   {
     "name": "Jeff Shiau",
     "avatar": "https://avatars.slack-edge.com/2019-03-11/573307893268_5165e2d8d07115b76ce9_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Jennifer Park",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Julio Guerra",
-    "avatar": "https://avatars.slack-edge.com/2018-03-01/324106542678_276eb6567a87530fb250_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-05-10/634464257606_9ddbf8d5c5d036730fd3_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -350,8 +350,8 @@
   {
     "name": "Karen Da Cruz",
     "avatar": "https://avatars.slack-edge.com/2016-02-02/20122708375_399707136dcd79bc1a2d_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Kathy Cheng",
@@ -440,8 +440,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Moisés Ñañez",
@@ -470,8 +470,8 @@
   {
     "name": "Patricia Lopez",
     "avatar": "https://avatars.slack-edge.com/2018-10-10/453414858373_694897bd81e5ed46df00_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Paul Antaki",
@@ -488,8 +488,8 @@
   {
     "name": "Rafael Huaman",
     "avatar": "https://avatars.slack-edge.com/2019-03-26/588190707524_4611dff41095a8c12cda_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Rafael Meza",
