@@ -92,8 +92,8 @@
   {
     "name": "Cat Lagman",
     "avatar": "https://avatars.slack-edge.com/2019-04-22/609035317553_50970a4fb057bc6091db_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Cristhiam Teran",
@@ -110,8 +110,8 @@
   {
     "name": "Danny Mayi",
     "avatar": "https://avatars.slack-edge.com/2018-10-30/466989527312_1f3a06a9ff6215370914_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Dante Cavero",
@@ -206,8 +206,8 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Guisella Acuña",
@@ -278,8 +278,8 @@
   {
     "name": "Jeff Shiau",
     "avatar": "https://avatars.slack-edge.com/2019-03-11/573307893268_5165e2d8d07115b76ce9_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Osaka",
+    "tz": "Asia/Tokyo"
   },
   {
     "name": "Jennifer Park",
@@ -440,8 +440,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Ñañez",
@@ -488,8 +488,8 @@
   {
     "name": "Rafael Huaman",
     "avatar": "https://avatars.slack-edge.com/2019-03-26/588190707524_4611dff41095a8c12cda_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Rafael Meza",
@@ -534,12 +534,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Sofia Vargas Machuca",
-    "avatar": "https://avatars.slack-edge.com/2018-11-28/490533401266_60b6e8b49b619840f1fe_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Sophie Jasinski",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/356406820576_7f3c018cf56d9561e6f6_192.jpg",
     "city": "New York",
@@ -554,8 +548,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "America/Chihuahua",
+    "tz": "America/Chihuahua"
   },
   {
     "name": "Vero Rebagliatte",
