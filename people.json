@@ -30,12 +30,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Alvaro Ricardo Villanueva Moran",
-    "avatar": "https://avatars.slack-edge.com/2018-12-17/507002484407_b44621ec52b9b39a39f0_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Andres Benavides",
     "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
     "city": "Lima",
@@ -110,8 +104,8 @@
   {
     "name": "Danny Mayi",
     "avatar": "https://avatars.slack-edge.com/2018-10-30/466989527312_1f3a06a9ff6215370914_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Dante Cavero",
@@ -206,8 +200,8 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "America/Mexico_City",
-    "tz": "America/Mexico_City"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Guisella Acuña",
@@ -486,6 +480,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "rachel",
+    "avatar": "https://secure.gravatar.com/avatar/41e2344673ed44c5c015be41d62bd9d1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0017-192.png",
+    "city": "New York",
+    "tz": "America/New_York"
+  },
+  {
     "name": "Rafael Huaman",
     "avatar": "https://avatars.slack-edge.com/2019-03-26/588190707524_4611dff41095a8c12cda_192.jpg",
     "city": "New York",
@@ -548,8 +548,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "America/Chihuahua",
-    "tz": "America/Chihuahua"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
