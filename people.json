@@ -13,7 +13,7 @@
   },
   {
     "name": "Alessandra Pereyra",
-    "avatar": "https://avatars.slack-edge.com/2018-10-31/470299067671_6958c9a03b419fd8faae_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-06-05/656007369221_61e416a4aa87946277f2_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -180,6 +180,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Fernando Mendoza",
+    "avatar": "https://avatars.slack-edge.com/2019-06-06/660156673622_8916f5fb742700daf35a_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Germán Martínez",
     "avatar": "https://avatars.slack-edge.com/2018-12-14/504472993813_63c433b0d85008f2fb57_192.jpg",
     "city": "Lima",
@@ -272,8 +278,8 @@
   {
     "name": "Jeff Shiau",
     "avatar": "https://avatars.slack-edge.com/2019-03-11/573307893268_5165e2d8d07115b76ce9_192.jpg",
-    "city": "Osaka",
-    "tz": "Asia/Tokyo"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jennifer Park",
@@ -374,12 +380,6 @@
   {
     "name": "Luigi Aguirre",
     "avatar": "https://avatars.slack-edge.com/2018-07-11/397812032359_f30e883468ee4a551a18_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Luis Fernando Mendoza",
-    "avatar": "https://avatars.slack-edge.com/2018-05-03/358134798738_d6d82a1f910cf225eecc_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -548,8 +548,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Denver",
-    "tz": "America/Denver"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Vero Rebagliatte",
@@ -562,6 +562,12 @@
     "avatar": "https://avatars.slack-edge.com/2018-06-19/385612585287_3ac39202c1ed04a82324_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "Will Denton",
+    "avatar": "https://avatars.slack-edge.com/2019-06-10/662292419063_b24935ddb72e0190fb67_192.jpg",
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ximena Alvarado",
