@@ -32,8 +32,8 @@
   {
     "name": "Andres Benavides",
     "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Sao_Paulo",
+    "tz": "America/Sao_Paulo"
   },
   {
     "name": "Andy Ni",
@@ -152,8 +152,8 @@
   {
     "name": "Emilio Blanco",
     "avatar": "https://avatars.slack-edge.com/2018-07-03/392262525651_f6a2f9e88ad25057b193_192.jpg",
-    "city": "America/Asuncion",
-    "tz": "America/Asuncion"
+    "city": "Lima",
+    "tz": "America/Buenos_Aires"
   },
   {
     "name": "Erica Madeira",
@@ -212,8 +212,8 @@
   {
     "name": "Guisella Acuña",
     "avatar": "https://avatars.slack-edge.com/2017-11-17/274400509059_2290d8d4edc6047d6f36_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Santiago",
+    "tz": "America/Santiago"
   },
   {
     "name": "Gustavo Beathyate",
@@ -302,8 +302,8 @@
   {
     "name": "José Olortegui",
     "avatar": "https://avatars.slack-edge.com/2018-12-17/505896130468_1d31faab31d28c59f619_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Juan Carlos Salazar",
@@ -416,8 +416,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Miche Capone",
@@ -434,8 +434,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Ñañez",
@@ -548,8 +548,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
@@ -571,7 +571,7 @@
   },
   {
     "name": "Ximena Alvarado",
-    "avatar": "https://avatars.slack-edge.com/2019-01-30/537862534963_4ce7a0f7055aa9a88dcd_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-06-17/656245559395_39ae29837b27ddec1ab6_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   }
