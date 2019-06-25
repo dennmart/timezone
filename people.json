@@ -32,8 +32,8 @@
   {
     "name": "Andres Benavides",
     "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
-    "city": "America/Sao_Paulo",
-    "tz": "America/Sao_Paulo"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Andy Ni",
@@ -68,8 +68,8 @@
   {
     "name": "Ben Polansky",
     "avatar": "https://avatars.slack-edge.com/2018-09-06/430550128388_651c42d2285fe8f57d1e_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "benjamin",
@@ -152,8 +152,8 @@
   {
     "name": "Emilio Blanco",
     "avatar": "https://avatars.slack-edge.com/2018-07-03/392262525651_f6a2f9e88ad25057b193_192.jpg",
-    "city": "Lima",
-    "tz": "America/Buenos_Aires"
+    "city": "America/Asuncion",
+    "tz": "America/Asuncion"
   },
   {
     "name": "Erica Madeira",
@@ -212,8 +212,8 @@
   {
     "name": "Guisella Acuña",
     "avatar": "https://avatars.slack-edge.com/2017-11-17/274400509059_2290d8d4edc6047d6f36_192.png",
-    "city": "America/Santiago",
-    "tz": "America/Santiago"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Gustavo Beathyate",
@@ -284,8 +284,8 @@
   {
     "name": "Jennifer Park",
     "avatar": "https://avatars.slack-edge.com/2016-07-27/63854286519_5dd916634006cdb3349a_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jorge Valdivia Franco",
@@ -302,8 +302,8 @@
   {
     "name": "José Olortegui",
     "avatar": "https://avatars.slack-edge.com/2018-12-17/505896130468_1d31faab31d28c59f619_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Juan Carlos Salazar",
@@ -416,8 +416,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Miche Capone",
@@ -434,8 +434,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Ñañez",
