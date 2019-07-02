@@ -116,8 +116,8 @@
   {
     "name": "David Goodman",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/458528492055_83837f0100dca25c6591_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Dennis Martinez",
@@ -276,6 +276,12 @@
     "tz": "America/New_York"
   },
   {
+    "name": "jcabrera",
+    "avatar": "https://secure.gravatar.com/avatar/9bbb06d4d7a085a1abcb9afc0cc33364.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0015-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Jeff Shiau",
     "avatar": "https://avatars.slack-edge.com/2019-03-11/573307893268_5165e2d8d07115b76ce9_192.jpg",
     "city": "San Francisco",
@@ -290,8 +296,8 @@
   {
     "name": "Jorge Valdivia Franco",
     "avatar": "https://avatars.slack-edge.com/2019-01-15/525975584646_c9af4785b13c76d775eb_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Jose Luis Valencia Gutierrez",
@@ -482,8 +488,8 @@
   {
     "name": "rachel",
     "avatar": "https://secure.gravatar.com/avatar/41e2344673ed44c5c015be41d62bd9d1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0017-192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Europe/London",
+    "tz": "Europe/London"
   },
   {
     "name": "Rafael Huaman",
@@ -510,14 +516,8 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Sandra Barreda",
-    "avatar": "https://secure.gravatar.com/avatar/4a7723f3f5f1b3db9e93250cf51ff835.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0025-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Santiago",
-    "avatar": "https://secure.gravatar.com/avatar/42cb07391cf4072a8cd0a61f917fc976.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0015-192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-06-27/678490521941_201af8613034587b9a0b_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
