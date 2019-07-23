@@ -104,8 +104,8 @@
   {
     "name": "Danny Conway",
     "avatar": "https://avatars.slack-edge.com/2017-09-20/245370264214_59673217d0a74273ecff_192.jpg",
-    "city": "Europe/Amsterdam",
-    "tz": "Europe/Amsterdam"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Danny Mayi",
@@ -242,8 +242,8 @@
   {
     "name": "Henry Netzer",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Hunter Scarborough",
@@ -277,13 +277,13 @@
   },
   {
     "name": "Jason Roos",
-    "avatar": "https://avatars.slack-edge.com/2015-08-24/9571737446_59b4fb5578e9699a4ea2_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-07-18/692509882001_47a69506222b1dc6d5b1_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
   },
   {
     "name": "Jeff Shiau",
-    "avatar": "https://avatars.slack-edge.com/2019-03-11/573307893268_5165e2d8d07115b76ce9_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-07-19/700001790692_561861d0fb4cd6da039b_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -296,8 +296,8 @@
   {
     "name": "Jorge Valdivia Franco",
     "avatar": "https://avatars.slack-edge.com/2019-01-15/525975584646_c9af4785b13c76d775eb_192.png",
-    "city": "Europe/London",
-    "tz": "Europe/London"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Jose Luis Valencia Gutierrez",
@@ -434,12 +434,6 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
-  },
-  {
-    "name": "Miche Capone",
-    "avatar": "https://avatars.slack-edge.com/2016-07-25/62943128835_a8ffb8efaa68b46799b2_192.jpg",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -584,8 +578,8 @@
   {
     "name": "Will Denton",
     "avatar": "https://avatars.slack-edge.com/2019-06-10/662292419063_b24935ddb72e0190fb67_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ximena Alvarado",
