@@ -30,6 +30,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Alonso De La Quintana",
+    "avatar": "https://avatars.slack-edge.com/2019-08-05/716809830928_807131687629fb251c1c_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Andres Benavides",
     "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
     "city": "Lima",
@@ -38,8 +44,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Pacific/Auckland",
+    "tz": "Pacific/Auckland"
   },
   {
     "name": "Angela Cordova",
@@ -90,6 +96,12 @@
     "tz": "America/Los_Angeles"
   },
   {
+    "name": "Claudia Valdivieso",
+    "avatar": "https://avatars.slack-edge.com/2019-08-05/716192409636_b5e08a051c3b0b587562_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Cristhiam Teran",
     "avatar": "https://avatars.slack-edge.com/2018-12-18/506263709344_1d9edf0ecea1367ef6db_192.jpg",
     "city": "Lima",
@@ -109,7 +121,7 @@
   },
   {
     "name": "Danny Mayi",
-    "avatar": "https://avatars.slack-edge.com/2018-10-30/466989527312_1f3a06a9ff6215370914_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-07-30/713327582038_f291d9abb76e7fc44082_192.png",
     "city": "New York",
     "tz": "America/New_York"
   },
@@ -175,7 +187,7 @@
   },
   {
     "name": "Felipe Pacora",
-    "avatar": "https://avatars.slack-edge.com/2019-01-20/527822713329_c6a05993ba8b70c1c9a1_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-07-31/714495782374_4e38855cb764ce526d0f_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -202,6 +214,12 @@
     "avatar": "https://avatars.slack-edge.com/2017-10-04/250799829793_73e107c035435a4b4716_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "griffin286",
+    "avatar": "https://secure.gravatar.com/avatar/c2e40773459406bee5c1ca5f87fe5fa7.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0014-192.png",
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Gubell Benites",
@@ -260,8 +278,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "jafeth",
@@ -379,7 +397,7 @@
   },
   {
     "name": "koki",
-    "avatar": "https://avatars.slack-edge.com/2019-07-09/689500562997_7f50ca1d9c61e32e1256_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-07-30/699242109026_5d577f6dd13d5a110183_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -530,8 +548,8 @@
   {
     "name": "Santiago",
     "avatar": "https://avatars.slack-edge.com/2019-06-27/678490521941_201af8613034587b9a0b_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Africa/Harare",
+    "tz": "Africa/Harare"
   },
   {
     "name": "Sergio Xalambrí",
@@ -584,7 +602,7 @@
   {
     "name": "Ximena Alvarado",
     "avatar": "https://avatars.slack-edge.com/2019-07-06/688723538086_59c7254a460792e50d6e_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Brussels",
+    "tz": "Europe/Brussels"
   }
 ]
