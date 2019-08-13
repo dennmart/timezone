@@ -44,8 +44,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "Pacific/Auckland",
-    "tz": "Pacific/Auckland"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Angela Cordova",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Marco Aviles",
-    "avatar": "https://avatars.slack-edge.com/2018-03-08/327835190822_2e10268e0c5313a048ac_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-08-09/715368605089_c6300fd374912ef3a2df_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -452,8 +452,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Australia/Canberra",
+    "tz": "Australia/Canberra"
   },
   {
     "name": "Miguel Piñero",
@@ -464,8 +464,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Moisés Ñañez",
@@ -548,8 +548,8 @@
   {
     "name": "Santiago",
     "avatar": "https://avatars.slack-edge.com/2019-06-27/678490521941_201af8613034587b9a0b_192.jpg",
-    "city": "Africa/Harare",
-    "tz": "Africa/Harare"
+    "city": "Europe/Moscow",
+    "tz": "Europe/Moscow"
   },
   {
     "name": "Sergio Xalambrí",
@@ -584,8 +584,8 @@
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Victoria Sánchez Martínez",
