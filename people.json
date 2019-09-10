@@ -44,8 +44,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Angela Cordova",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Angie Gonzales",
-    "avatar": "https://secure.gravatar.com/avatar/d64864fb2aaec2db9f5b98135e5e7c1f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0009-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/d64864fb2aaec2db9f5b98135e5e7c1f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0009-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -97,7 +97,7 @@
   },
   {
     "name": "Carlos Ayala",
-    "avatar": "https://secure.gravatar.com/avatar/8ab51a5d927db8420ebf994c2658492e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0022-192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-09-04/742603963585_021826be446ceb035594_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -115,13 +115,13 @@
   },
   {
     "name": "Christopher Roa",
-    "avatar": "https://secure.gravatar.com/avatar/359d0dfd3bd1f4f50024626aee942511.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0024-192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-09-05/743774135281_bbebf10ca6e0a1e42bd4_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
   {
     "name": "Claudia Valdivieso",
-    "avatar": "https://avatars.slack-edge.com/2019-08-05/716192409636_b5e08a051c3b0b587562_192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-09-09/753845205412_d340d04e57cf25ddf5fe_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -139,7 +139,7 @@
   },
   {
     "name": "Cristian Granda Pastor",
-    "avatar": "https://secure.gravatar.com/avatar/4236d4d32975d5003484fe8a6ccdb22e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/4236d4d32975d5003484fe8a6ccdb22e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -181,13 +181,13 @@
   },
   {
     "name": "Derek Weingart",
-    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
   {
     "name": "Diego Cuevas",
-    "avatar": "https://secure.gravatar.com/avatar/e12008d114c1740609e5b3ea48b91192.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/e12008d114c1740609e5b3ea48b91192.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -271,13 +271,13 @@
   },
   {
     "name": "Gonzalo Villaran",
-    "avatar": "https://secure.gravatar.com/avatar/b7d82e30d5b636ca46de92e0139023a8.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/b7d82e30d5b636ca46de92e0139023a8.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0001-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
   {
     "name": "griffin286",
-    "avatar": "https://secure.gravatar.com/avatar/c2e40773459406bee5c1ca5f87fe5fa7.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0014-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/c2e40773459406bee5c1ca5f87fe5fa7.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0014-192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
@@ -308,8 +308,8 @@
   {
     "name": "Gustavo Leon",
     "avatar": "https://avatars.slack-edge.com/2019-07-15/689000695073_e8219227f29f2855a70a_192.jpg",
-    "city": "America/Mexico_City",
-    "tz": "America/Mexico_City"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Hector Paz",
@@ -457,7 +457,7 @@
   },
   {
     "name": "Lian Nivin",
-    "avatar": "https://secure.gravatar.com/avatar/80e9e5efb2080efbb953d4d91e0253d4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0018-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/80e9e5efb2080efbb953d4d91e0253d4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0018-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -488,6 +488,12 @@
   {
     "name": "Mariella Miranda",
     "avatar": "https://avatars.slack-edge.com/2018-11-30/492214542883_0af1df3860bdcc3b7e2d_192.jpg",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Marieth Perez",
+    "avatar": "https://secure.gravatar.com/avatar/ccd2cbe8081f942e1e192dd4b937e2fb.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -559,19 +565,13 @@
   },
   {
     "name": "Paul Antaki",
-    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/3815e9c7c1c03be9559017695910994a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
   },
   {
     "name": "Paul Portillo Torres",
-    "avatar": "https://secure.gravatar.com/avatar/61fecb3f2aa659567872176703f16509.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Perez Zevallos",
-    "avatar": "https://secure.gravatar.com/avatar/ccd2cbe8081f942e1e192dd4b937e2fb.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://avatars.slack-edge.com/2019-09-05/749587523940_e987fd8badd374d1fba2_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -613,7 +613,13 @@
   },
   {
     "name": "Ricardo Díaz",
-    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0001-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Sam Broughton",
+    "avatar": "https://secure.gravatar.com/avatar/9a7a84571c2b6cdbf9ba31ba1dbfa7cb.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0018-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -655,7 +661,7 @@
   },
   {
     "name": "Valeria Vassallo",
-    "avatar": "https://secure.gravatar.com/avatar/94fe4c2fe7f220ca59de38b3817db48d.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0024-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/94fe4c2fe7f220ca59de38b3817db48d.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F80588%2Fimg%2Favatars%2Fava_0024-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
