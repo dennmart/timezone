@@ -104,8 +104,8 @@
   {
     "name": "Cat Lagman",
     "avatar": "https://avatars.slack-edge.com/2019-04-22/609035317553_50970a4fb057bc6091db_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Cesar Cachay",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Cristian Granda Pastor",
-    "avatar": "https://secure.gravatar.com/avatar/4236d4d32975d5003484fe8a6ccdb22e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F5818c%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/4236d4d32975d5003484fe8a6ccdb22e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -181,7 +181,7 @@
   },
   {
     "name": "Derek Weingart",
-    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F5818c%2Fimg%2Favatars%2Fava_0007-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/d3806ee021609d923177489d367e18b1.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-192.png",
     "city": "Denver",
     "tz": "America/Denver"
   },
@@ -200,8 +200,8 @@
   {
     "name": "Eder Rengifo",
     "avatar": "https://avatars.slack-edge.com/2018-07-30/406855354049_cb2c5ba5d9a0fe8c55c3_192.png",
-    "city": "Europe/Brussels",
-    "tz": "Europe/Brussels"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Edgar Alfaro",
@@ -362,8 +362,8 @@
   {
     "name": "Jennifer Park",
     "avatar": "https://avatars.slack-edge.com/2016-07-27/63854286519_5dd916634006cdb3349a_192.jpg",
-    "city": "Europe/Amsterdam",
-    "tz": "Europe/Amsterdam"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Jorge Valdivia Franco",
@@ -445,7 +445,7 @@
   },
   {
     "name": "Lian Nivin",
-    "avatar": "https://secure.gravatar.com/avatar/80e9e5efb2080efbb953d4d91e0253d4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F5818c%2Fimg%2Favatars%2Fava_0018-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/80e9e5efb2080efbb953d4d91e0253d4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -500,8 +500,8 @@
   {
     "name": "Mayra Navarro",
     "avatar": "https://avatars.slack-edge.com/2019-09-03/740869005265_3c0c8d30be46a6698c35_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Michael Polansky",
@@ -595,7 +595,7 @@
   },
   {
     "name": "Ricardo Díaz",
-    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F5818c%2Fimg%2Favatars%2Fava_0001-192.png",
+    "avatar": "https://secure.gravatar.com/avatar/be5dd3882a578653573e8435e638864e.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
