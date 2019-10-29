@@ -314,8 +314,8 @@
   {
     "name": "Hunter Scarborough",
     "avatar": "https://avatars.slack-edge.com/2019-03-25/587547139893_fddae1775a6ded885477_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ingrid Kenyon",
@@ -344,8 +344,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2019-07-18/692509882001_47a69506222b1dc6d5b1_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Jeff Shiau",
@@ -362,8 +362,8 @@
   {
     "name": "Jorge Valdivia Franco",
     "avatar": "https://avatars.slack-edge.com/2019-01-15/525975584646_c9af4785b13c76d775eb_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Jose Luis Valencia Gutierrez",
@@ -458,8 +458,8 @@
   {
     "name": "Marco Aviles",
     "avatar": "https://avatars.slack-edge.com/2019-08-09/715368605089_c6300fd374912ef3a2df_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Maria Andrea Angel",
@@ -494,14 +494,14 @@
   {
     "name": "Mayra Navarro",
     "avatar": "https://avatars.slack-edge.com/2019-09-03/740869005265_3c0c8d30be46a6698c35_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Miguel Piñero",
@@ -579,7 +579,7 @@
     "name": "Raymi Saldomando",
     "avatar": "https://avatars.slack-edge.com/2019-10-16/798440927813_442e5e0ca7fb21eb12c5_192.jpg",
     "city": "Lima",
-    "tz": "America/Buenos_Aires"
+    "tz": "America/Bogota"
   },
   {
     "name": "renato",
