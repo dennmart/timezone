@@ -14,14 +14,14 @@
   {
     "name": "Alfonso Mello",
     "avatar": "https://avatars.slack-edge.com/2019-08-21/733620030613_fcb3417efaf1581cc4db_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Alonso De La Quintana",
     "avatar": "https://avatars.slack-edge.com/2019-08-05/716809830928_807131687629fb251c1c_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Andres Benavides",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Bruno Gonzales",
-    "avatar": "https://avatars.slack-edge.com/2018-11-01/468732653025_ac60b055c01648978b71_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-12-05/854465706977_d124e5222b02a928ae1e_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -158,8 +158,8 @@
   {
     "name": "Eder Rengifo",
     "avatar": "https://avatars.slack-edge.com/2018-07-30/406855354049_cb2c5ba5d9a0fe8c55c3_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Edgar Alfaro",
@@ -170,8 +170,8 @@
   {
     "name": "Elizabeth Manrique",
     "avatar": "https://avatars.slack-edge.com/2019-11-11/832425358071_04ccd4785c3cd28d70e6_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Emilio Blanco",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Frank Condezo",
-    "avatar": "https://avatars.slack-edge.com/2019-09-02/734781201667_78330e5b97e53674261d_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2019-12-09/853515521410_42fc287ac52371ec1cdd_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -248,8 +248,8 @@
   {
     "name": "Gustavo Beathyate",
     "avatar": "https://avatars.slack-edge.com/2016-08-02/65705523681_c47f3bcba2dc5085c303_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Gustavo Delgado",
@@ -272,8 +272,8 @@
   {
     "name": "Henry Netzer",
     "avatar": "https://avatars.slack-edge.com/2018-05-02/358466604151_d8e57c39ce1a5be3b087_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Hunter Scarborough",
@@ -308,8 +308,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2019-07-18/692509882001_47a69506222b1dc6d5b1_192.jpg",
-    "city": "America/Chicago",
-    "tz": "America/Chicago"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Jeff Shiau",
@@ -416,8 +416,8 @@
   {
     "name": "Marco Aviles",
     "avatar": "https://avatars.slack-edge.com/2019-08-09/715368605089_c6300fd374912ef3a2df_192.png",
-    "city": "America/Mexico_City",
-    "tz": "America/Mexico_City"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Maria Andrea Angel",
@@ -440,8 +440,8 @@
   {
     "name": "Michael Polansky",
     "avatar": "https://avatars.slack-edge.com/2016-08-23/72235617975_31b5f294ef6cb65e3760_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Miguel Piñero",
@@ -452,8 +452,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Ñañez",
@@ -494,8 +494,8 @@
   {
     "name": "Pradeepa Dhanasekar",
     "avatar": "https://avatars.slack-edge.com/2019-03-15/579326601767_47fcde096a0c83373914_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "rachel",
@@ -572,14 +572,14 @@
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Uruguay",
+    "tz": "America/Montevideo"
   },
   {
     "name": "Victoria Sánchez Martínez",
     "avatar": "https://avatars.slack-edge.com/2018-06-19/385612585287_3ac39202c1ed04a82324_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Will Denton",
