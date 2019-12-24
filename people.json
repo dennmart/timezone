@@ -56,8 +56,8 @@
   {
     "name": "Ben Lim",
     "avatar": "https://avatars.slack-edge.com/2019-04-30/611363488882_6994f75f4562f63f58e4_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "Ben Polansky",
@@ -134,8 +134,8 @@
   {
     "name": "David Goodman",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/458528492055_83837f0100dca25c6591_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Phoenix",
+    "tz": "America/Phoenix"
   },
   {
     "name": "Dennis Martinez",
@@ -308,8 +308,8 @@
   {
     "name": "Jason Roos",
     "avatar": "https://avatars.slack-edge.com/2019-07-18/692509882001_47a69506222b1dc6d5b1_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Jeff Shiau",
@@ -422,8 +422,8 @@
   {
     "name": "Marco Aviles",
     "avatar": "https://avatars.slack-edge.com/2019-08-09/715368605089_c6300fd374912ef3a2df_192.png",
-    "city": "America/Tijuana",
-    "tz": "America/Tijuana"
+    "city": "America/Anchorage",
+    "tz": "America/Anchorage"
   },
   {
     "name": "Maria Andrea Angel",
@@ -458,8 +458,8 @@
   {
     "name": "Mike Potter",
     "avatar": "https://avatars.slack-edge.com/2015-06-08/6091027682_c74c9fd84c1a7beb3735_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Moisés Ñañez",
@@ -488,8 +488,8 @@
   {
     "name": "Patricia Lopez",
     "avatar": "https://avatars.slack-edge.com/2018-10-10/453414858373_694897bd81e5ed46df00_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Paul Portillo Torres",
@@ -572,8 +572,8 @@
   {
     "name": "Taylor McLemore",
     "avatar": "https://avatars.slack-edge.com/2018-05-10/361223731840_9e0f929a3a650efc6758_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Denver",
+    "tz": "America/Denver"
   },
   {
     "name": "Vero Rebagliatte",
