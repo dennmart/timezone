@@ -20,8 +20,8 @@
   {
     "name": "Alonso De La Quintana",
     "avatar": "https://avatars.slack-edge.com/2019-08-05/716809830928_807131687629fb251c1c_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Andres Benavides",
@@ -56,8 +56,8 @@
   {
     "name": "Ben Lim",
     "avatar": "https://avatars.slack-edge.com/2019-04-30/611363488882_6994f75f4562f63f58e4_192.png",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Ben Polansky",
@@ -86,6 +86,12 @@
   {
     "name": "Claudia Valdivieso",
     "avatar": "https://avatars.slack-edge.com/2019-09-09/753845205412_d340d04e57cf25ddf5fe_192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
+    "name": "Claudia Zavaleta",
+    "avatar": "https://secure.gravatar.com/avatar/61527f618d0f995dd20749e2ba64726f.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -134,8 +140,8 @@
   {
     "name": "David Goodman",
     "avatar": "https://avatars.slack-edge.com/2018-10-16/458528492055_83837f0100dca25c6591_192.png",
-    "city": "America/Phoenix",
-    "tz": "America/Phoenix"
+    "city": "America/Chicago",
+    "tz": "America/Chicago"
   },
   {
     "name": "Dennis Martinez",
@@ -210,12 +216,6 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Germán Martínez",
-    "avatar": "https://avatars.slack-edge.com/2018-12-14/504472993813_63c433b0d85008f2fb57_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
     "name": "Gianfranco Montoya",
     "avatar": "https://avatars.slack-edge.com/2015-11-05/13961417364_fb6e993c29670ef1777f_192.jpg",
     "city": "Lima",
@@ -236,12 +236,6 @@
   {
     "name": "Gubell Benites",
     "avatar": "https://avatars.slack-edge.com/2017-03-31/162852487954_ac30c64ca4e9d103c195_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
-  },
-  {
-    "name": "Guisella Acuña",
-    "avatar": "https://avatars.slack-edge.com/2017-11-17/274400509059_2290d8d4edc6047d6f36_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -396,6 +390,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Karissa Carter",
+    "avatar": "https://secure.gravatar.com/avatar/c97398e2d333efd63117aa47512c93dc.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-192.png",
+    "city": "Denver",
+    "tz": "America/Denver"
+  },
+  {
     "name": "Kathy Cheng",
     "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
     "city": "San Francisco",
@@ -422,8 +422,8 @@
   {
     "name": "Marco Aviles",
     "avatar": "https://avatars.slack-edge.com/2019-08-09/715368605089_c6300fd374912ef3a2df_192.png",
-    "city": "America/Anchorage",
-    "tz": "America/Anchorage"
+    "city": "America/Fortaleza",
+    "tz": "America/Fortaleza"
   },
   {
     "name": "Maria Andrea Angel",
@@ -488,8 +488,8 @@
   {
     "name": "Patricia Lopez",
     "avatar": "https://avatars.slack-edge.com/2018-10-10/453414858373_694897bd81e5ed46df00_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Paul Portillo Torres",
@@ -540,6 +540,12 @@
     "tz": "America/Bogota"
   },
   {
+    "name": "Rodolfo Taboada",
+    "avatar": "https://secure.gravatar.com/avatar/2a2361a3684b046b204b7af2ebfc0342.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-192.png",
+    "city": "Lima",
+    "tz": "America/Bogota"
+  },
+  {
     "name": "Sam Broughton",
     "avatar": "https://avatars.slack-edge.com/2019-09-11/758938160454_088065183b94ebb9f275_192.jpg",
     "city": "Lima",
@@ -578,8 +584,8 @@
   {
     "name": "Vero Rebagliatte",
     "avatar": "https://avatars.slack-edge.com/2017-03-07/151709309222_ccd0354912d82bdda2ad_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
+    "city": "Uruguay",
+    "tz": "America/Montevideo"
   },
   {
     "name": "Victoria Sánchez Martínez",
