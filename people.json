@@ -26,20 +26,20 @@
   {
     "name": "Andres Benavides",
     "avatar": "https://avatars.slack-edge.com/2018-12-10/500316443875_fb099140b67a43500201_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Lima",
+    "tz": "America/Bogota"
   },
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "New York",
-    "tz": "America/New_York"
+    "city": "Asia/Taipei",
+    "tz": "Asia/Taipei"
   },
   {
     "name": "Angela Cordova",
     "avatar": "https://avatars.slack-edge.com/2018-01-04/293424002289_2b7f5ff39197b14ab4fd_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Europe/Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Arturo Puente",
@@ -170,8 +170,8 @@
   {
     "name": "Edgar Alfaro",
     "avatar": "https://avatars.slack-edge.com/2019-03-01/565106605939_945ebbead92555711f36_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Mexico_City",
+    "tz": "America/Mexico_City"
   },
   {
     "name": "Elizabeth Manrique",
@@ -253,7 +253,7 @@
   },
   {
     "name": "Gustavo Leon",
-    "avatar": "https://avatars.slack-edge.com/2019-12-02/844271499410_d5724eb506076c56b928_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2020-01-16/899748232929_d8ca867fc8325a067b58_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -284,8 +284,8 @@
   {
     "name": "Inna Fedoseyeva",
     "avatar": "https://avatars.slack-edge.com/2018-08-31/428188836439_52fa837f4867d6b4b737_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "San Francisco",
+    "tz": "America/Los_Angeles"
   },
   {
     "name": "jafeth",
@@ -391,15 +391,9 @@
   },
   {
     "name": "Karissa Carter",
-    "avatar": "https://secure.gravatar.com/avatar/c97398e2d333efd63117aa47512c93dc.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-192.png",
+    "avatar": "https://avatars.slack-edge.com/2020-01-16/911774203302_42964524bf78cff9393a_192.jpg",
     "city": "New York",
     "tz": "America/New_York"
-  },
-  {
-    "name": "Kathy Cheng",
-    "avatar": "https://avatars.slack-edge.com/2017-05-15/183884557269_3b003e481dbe20c7b698_192.jpg",
-    "city": "San Francisco",
-    "tz": "America/Los_Angeles"
   },
   {
     "name": "Kattya Cuevas",
@@ -552,7 +546,7 @@
     "tz": "America/Bogota"
   },
   {
-    "name": "Sebastian Solari",
+    "name": "Sebastián Solari",
     "avatar": "https://secure.gravatar.com/avatar/d18960391456966c3acce1cedfe1f50d.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-192.png",
     "city": "Lima",
     "tz": "America/Bogota"
@@ -562,12 +556,6 @@
     "avatar": "https://avatars.slack-edge.com/2018-09-18/437447678753_786e62c39e22a1239df1_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
-  },
-  {
-    "name": "Sophie Jasinski",
-    "avatar": "https://avatars.slack-edge.com/2018-05-02/356406820576_7f3c018cf56d9561e6f6_192.jpg",
-    "city": "New York",
-    "tz": "America/New_York"
   },
   {
     "name": "Stephanie Johnson Padilla",
