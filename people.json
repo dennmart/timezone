@@ -32,8 +32,8 @@
   {
     "name": "Andy Ni",
     "avatar": "https://avatars.slack-edge.com/2018-04-16/348729948998_6b7d849fc594731d79a6_192.png",
-    "city": "Asia/Taipei",
-    "tz": "Asia/Taipei"
+    "city": "Osaka",
+    "tz": "Asia/Tokyo"
   },
   {
     "name": "Angela Cordova",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Juan-Pablo Scaletti",
-    "avatar": "https://avatars.slack-edge.com/2019-10-29/815416315062_965a8a23f19e87a1f264_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2020-01-23/919375863312_302e6b0e8fb227590d43_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
@@ -412,6 +412,12 @@
     "avatar": "https://avatars.slack-edge.com/2018-07-11/397812032359_f30e883468ee4a551a18_192.jpg",
     "city": "Lima",
     "tz": "America/Bogota"
+  },
+  {
+    "name": "Mackenzie Regent",
+    "avatar": "https://avatars.slack-edge.com/2020-01-27/924047861156_7b6182a6e1c8fc61ccc1_192.png",
+    "city": "New York",
+    "tz": "America/New_York"
   },
   {
     "name": "Marco Aviles",
@@ -476,8 +482,8 @@
   {
     "name": "Ninisha Shah",
     "avatar": "https://avatars.slack-edge.com/2018-07-02/391276893809_9d1126bcf553285a4dd0_192.jpg",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "Asia/Kolkata",
+    "tz": "Asia/Kolkata"
   },
   {
     "name": "Patricia Lopez",
@@ -517,15 +523,15 @@
   },
   {
     "name": "Raymi Saldomando",
-    "avatar": "https://avatars.slack-edge.com/2019-11-16/829463623345_b9302cf3e43886ca17a7_192.jpg",
+    "avatar": "https://avatars.slack-edge.com/2020-01-25/922292399536_788ac60ab41e9abf8439_192.png",
     "city": "Lima",
     "tz": "America/Bogota"
   },
   {
     "name": "renato",
     "avatar": "https://avatars.slack-edge.com/2019-07-04/685380931797_1415c7848dc91ad48246_192.png",
-    "city": "Lima",
-    "tz": "America/Bogota"
+    "city": "America/Manaus",
+    "tz": "America/Manaus"
   },
   {
     "name": "Ricardo Díaz",
